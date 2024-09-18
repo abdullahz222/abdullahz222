@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zeeshan</h1>
-<h3 align="center">A passionate backend developer from Pakistan.</h3>
+<h3 align="center">A passionate fullstack developer and cloud architect from Pakistan.</h3>
 
-- 🌱 I’m currently learning **React, DevOps**
-
-- 💬 Ask me about **Django, Flask, Python**
+- 💬 Ask me about **Flask, React, AWS, Python**
 
 - 📫 How to reach me **abdullahzs222dot@gmail.com**
 
